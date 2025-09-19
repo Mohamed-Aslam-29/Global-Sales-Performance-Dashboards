@@ -25,8 +25,8 @@ Understand customer status, order trends, product performance, and revenue distr
 - 🗂 **Orders by Category & Status** – Monitor order status (Cancelled, Closed, Open, Shipped).  
 - 🎚 **Sales Period Slicer** – Filter all visuals dynamically by time period.
 
-![Customer & Order Analysis Screenshot](<img width="1275" height="704" alt="Screenshot 2025-08-26 175342" src="https://github.com/user-attachments/assets/9ae075f3-7dfd-4de9-887a-8ba91d6a8734" />
-)
+<img width="1275" height="704" alt="Screenshot 2025-08-26 175342" src="https://github.com/user-attachments/assets/9ae075f3-7dfd-4de9-887a-8ba91d6a8734" />
+
 
 ---
 
@@ -44,8 +44,8 @@ Analyze worldwide sales, category-wise revenue, and product profitability.
 - 💹 **Profit by Items** – See which items generate the most profit.  
 - 🎚 **Select Period Slicer** – Filter data by selected time frame.
 
-![Global Sales & Performance Screenshot](<img width="1277" height="717" alt="Screenshot 2025-08-26 175451" src="https://github.com/user-attachments/assets/c0171e5d-1919-41ce-a798-4ec7b06a3ac3" />
-)
+<img width="1277" height="717" alt="Screenshot 2025-08-26 175451" src="https://github.com/user-attachments/assets/c0171e5d-1919-41ce-a798-4ec7b06a3ac3" />
+
 
 ---
 
@@ -62,8 +62,8 @@ Evaluate sales representatives’ revenue generation, discounts, order volumes, 
 - ❌ **Cancellation Rate % by Sales Rep** – Measure cancelled orders per rep to improve processes.  
 - 🎚 **Sales Rep Name Slicer** – Drill down into individual rep performance.
 
-![Sales Rep Performance Screenshot](<img width="1276" height="712" alt="Screenshot 2025-08-26 175523" src="https://github.com/user-attachments/assets/f139a115-847b-413f-8222-8370826f74da" />
-)
+<img width="1276" height="712" alt="Screenshot 2025-08-26 175523" src="https://github.com/user-attachments/assets/f139a115-847b-413f-8222-8370826f74da" />
+
 
 ---
 
